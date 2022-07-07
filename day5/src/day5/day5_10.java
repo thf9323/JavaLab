@@ -19,6 +19,9 @@ public class day5_10 {
 				count[na[j]]++;
 			
 		}
+		for (int i=0; i< na.length; i++) {
+			System.out.println(i +"의 개수 : "+count[i]);
+		}
 		
 		
 	}
