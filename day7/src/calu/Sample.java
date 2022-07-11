@@ -29,7 +29,7 @@ package calu;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HouseDog houseDog = new HouseDog();
-        houseDog.setName("happy");
+        houseDog.setName("happy"+);
         houseDog.sleep();
         houseDog.sleep(3);
 
