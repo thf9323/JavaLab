@@ -1,7 +1,7 @@
 package day8test;
 
 
-public class CaptionTvTest {
+public class CaptionTvTest{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
