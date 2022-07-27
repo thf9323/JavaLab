@@ -11,7 +11,6 @@ public class ch2 {
 			System.out.print(each + " ");
 		}
 		System.out.println();
-		
 		System.out.println();
 		for(int i = 0; i<4; i++) {
 			int min = i;
@@ -24,6 +23,7 @@ public class ch2 {
 			arr[min] = arr[i];
 			arr[i]= temp;
 		
+			//전체를 하나씩 가져와 출력
 			for (int each : arr) {
 				System.out.print(each + " ");
 			}
