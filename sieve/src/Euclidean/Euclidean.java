@@ -23,7 +23,7 @@ public class Euclidean {
 			}
 break;
 		}
-		System.out.print(a + " 와 " + b + "최대 공약수는 " + b + "입니다.");
+		System.out.print(a + " 와 " + b + "최대 공약수는 " + r + "입니다.");
 
 	}
 
